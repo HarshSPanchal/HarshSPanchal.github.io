@@ -1,2 +1,2 @@
 # HarshSPanchal.github.io
-This is my firt Repo
+This is my first Repo
